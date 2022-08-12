@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet Loader", "Dotnet Loader\Dotnet Loader.csproj", "{DFB76005-83ED-48C0-BCA8-F8A73657E309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB76005-83ED-48C0-BCA8-F8A73657E309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB76005-83ED-48C0-BCA8-F8A73657E309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB76005-83ED-48C0-BCA8-F8A73657E309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB76005-83ED-48C0-BCA8-F8A73657E309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90BDCD22-19CD-4DFC-B9A3-74CD7E9D01CA}
+	EndGlobalSection
+EndGlobal
